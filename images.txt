@@ -1,1 +1,1 @@
-frangoteam/fuxa:latest
+tdengine/tdengine:latest
