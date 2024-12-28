@@ -1,4 +1,5 @@
-tdengine/tdengine:latest
+tdengine/tdengine:3.3.4.8
+mysql:8
 bitnami/kafka:3.6.2
 apache/kafka:3.9.0
 postgres:15
